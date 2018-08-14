@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Museos RGL</string>
+    <string name="boton_generico">Genérico</string>
+    <string name="boton_museos_militares">Museos Militares y de las FF AA</string>
+    <string name="boton_museos_arte">Museos de Arte y Casas Culturales</string>
+    <string name="boton_museos_tecnologia">Museos de Tecnología</string>
+    <string name="boton_lugares_historicos">Lugares Históricos</string>
+    <string name="boton_lugares_interes">Otros lugares de Interés</string>
+    <string name="boton_acerca_de">Acerca de...</string>
+</resources>
